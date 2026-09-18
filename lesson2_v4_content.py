@@ -35,7 +35,7 @@ PATTERNS = [
       (". With such a system, revision becomes a habit rather than a scramble before exams.", False, False)]),
     ("Pattern 2: Never / Rarely / Seldom",
      "Never / Rarely / Seldom + auxiliary + subject + verb",
-     "Turns a criticism or a surprising claim into a formal, striking opening.",
+     "Highlights how rare or unusual something is — makes a criticism or a claim sound stronger and more formal.",
      "Rarely do we question our daily screen habits.",
      [("Many parents blame video games for every poor result. ", False, False),
       ("Rarely do they stop to consider how limited their children’s other entertainment options are", False, False),
